@@ -39,7 +39,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between">
         <a href="#" className="text-2xl font-bold tracking-tight">
-          <span className="text-gradient">Minimalist</span>
+          <span className="text-gradient">The Impact Deals</span>
         </a>
 
         {/* Desktop Navigation */}
